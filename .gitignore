@@ -63,6 +63,7 @@ typings/
 # lockfiles
 yarn.lock
 package-lock.json
+.gitpod.yml
 
 # uploads
 api/uploads
